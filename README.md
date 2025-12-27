@@ -1,6 +1,7 @@
 # Secure Threat Checker – Beginner Cyber AI Project
 
-[![Watch the video](https://img.youtube.com/vi/pbRKM3waO_s/maxresdefault.jpg)]([https://www.youtube.com/watch?v=pbRKM3waO_s])
+[![Watch the video](https://img.youtube.com/vi/pbRKM3waO_s/maxresdefault.jpg)](https://www.youtube.com/watch?v=pbRKM3waO_s)
+^^ Full video ^^
 
 This project is a simple cyber-security AI tool. It reads a sentence and tries to guess if it looks:
 - benign (safe)
